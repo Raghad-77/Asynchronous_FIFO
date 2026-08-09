@@ -113,7 +113,7 @@ This allows the same RTL architecture to be adapted to different data-storage re
 
 ## Verification
 
-The design should be verified using scenarios covering:
+The design is verified using scenarios covering:
 
 - Write operations
 - Read operations
@@ -128,7 +128,7 @@ The design should be verified using scenarios covering:
 - Correct data ordering
 - Correct full/empty status
 
-Waveform analysis can be used to verify pointer synchronization, data integrity, and FIFO status transitions.
+Waveform analysis used to verify pointer synchronization, data integrity, and FIFO status transitions.
 
 ## Tools
 
